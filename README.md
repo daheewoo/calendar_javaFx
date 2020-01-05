@@ -12,7 +12,8 @@
 <ul>
   <li>
     <h3>database</h3>
-    - 
+    - 테이블명 : calendar
+    - 컬럼명 : 
   
   </li>
 </ul>
