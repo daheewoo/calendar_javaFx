@@ -20,3 +20,4 @@
 <hr />
  <h1>개발환경</h1>
 RDBMS : Oracle
+JDK 1.8
