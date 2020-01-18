@@ -19,5 +19,7 @@
 </ul>
 <hr />
  <h1>개발환경</h1>
-RDBMS : Oracle
-JDK 1.8
+RDBMS : Oracle<br />
+JDK 1.8 <br />
+SceneBuilder : 8.5.0 <br />
+
